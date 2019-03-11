@@ -1,4 +1,4 @@
-#johnpolacek.com
+# johnpolacek.com
 
 Built with [Gatsby](https://www.gatsbyjs.org/). Forked from the [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). 
 
