@@ -1,0 +1,31 @@
+# Use PHP5.4 Single php.ini as default
+# Changed PHP handler from application/x-httpd-php54s to application/x-httpd-phpbetas on Mon Nov 23 16:13:47 MST 2015.
+AddHandler application/x-httpd-ea-php56 .php
+DirectoryIndex index.html.var index.htm index.html index.shtml index.xhtml index.wml index.perl index.pl index.plx index.ppl index.cgi index.jsp index.js index.jp index.php4 index.php3 index.php index.phtml default.htm default.html home.htm index.php5 Default.html Default.htm home.html
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+#The next line modified by DenyIP
+order allow,deny
+#The next line modified by DenyIP
+#deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName johnpolacek.com
+AuthUserFile /home/johnpol1/public_html/_vti_pvt/service.pwd
+AuthGroupFile /home/johnpol1/public_html/_vti_pvt/service.grp
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 193.105.240.173
+
+Redirect 301 /content-display-patterns https://johnpolacek.github.io/expressive-css-content-display-patterns
