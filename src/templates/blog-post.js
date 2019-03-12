@@ -16,8 +16,9 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext
     const disqusShortname = 'johnpolacek'
     const disqusConfig = {
-      identifier: post.id,
-      title: post.frontmatter.title,
+      url: this.props.location.href,
+      identifier: this.props.location.href,
+      title: post.frontmatter.title
     }
 
     return (
@@ -30,6 +31,7 @@ class BlogPostTemplate extends React.Component {
         <P fontSize={0} color="gray7">
           {post.frontmatter.date}
         </P>
+
         <Div pb={4} fontSize={[1,2]} dangerouslySetInnerHTML={{ __html: post.html }} />
 
         <Nav borderTop="solid 8px" borderColor="gray2" pt={4} pb={5} display="flex">
