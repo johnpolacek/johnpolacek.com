@@ -21,7 +21,7 @@ const NavItem = (props) => (
 )
 
 export default (props) => (
-	<Header textAlign="center" borderBottom="solid 8px" borderColor="gray2" pt={[3,0]} mb={4}>
+	<Header textAlign="center" borderBottom="solid 8px" borderColor="gray2" pt={[4,0]} mb={4}>
       <H1 pb={3} mb={2}>
         <Link to={`/`}>
           <Span color="gray9" fontSize={[4,5,6]} display="block">John Polacek</Span>
