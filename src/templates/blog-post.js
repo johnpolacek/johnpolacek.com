@@ -16,8 +16,8 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext
     const disqusShortname = 'johnpolacek'
     const disqusConfig = {
-      url: 'https://johnpolacek.com/'+this.props.location.href.split('/').slice(3).join('/'),
-      identifier: 'https://johnpolacek.com/'+this.props.location.href.split('/').slice(3).join('/'),
+      url: this.props.location.href ? 'https://johnpolacek.com/'+this.props.location.href.split('/').slice(3).join('/') : '',
+      identifier: this.props.location.href ? 'https://johnpolacek.com/'+this.props.location.href.split('/').slice(3).join('/') : '',
       title: post.frontmatter.title
     }
 
