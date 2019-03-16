@@ -6,7 +6,7 @@ const Project = (props) => (
   <Div pt={3} pb={5}>
     <H3 py={3}>{props.name}</H3>
     <a href={props.url}>
-      <Img width={[320,420]} src={'/img/code/'+props.img} alt={props.name+' Project Page'} />
+      <Img border="solid 4px" borderColor="#fff" width={[320,420]} src={'/img/code/'+props.img} alt={props.name+' Project Page'} />
     </a>
     <P pt={3} fontSize={[1,2]}>{props.desc}</P>
     <A fontSize={[1,2]} href={props.url}>{props.url.replace('https://','')}</A>
