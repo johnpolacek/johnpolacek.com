@@ -13,6 +13,12 @@ const projects = [
     desc:'HTML elements extended as components, ready for theming via styled system.'
   },
   {
+    name:'Gatsby Events List Starter',
+    url:'https://github.com/johnpolacek/gatsby-starter-events-list',
+    img:'gatsby-starter-events-list.png',
+    desc:'A Gatsby starter for creating a calendar list of events'
+  },
+  {
     name:'CSS-in-JS or CSS-and-JS',
     url:'https://johnpolacek.github.io/css-in-js-or-css-and-js/',
     img:'css-in-js-or-css-and-js.png',
@@ -121,8 +127,6 @@ class CodePage extends React.Component {
               <Project {...proj} />
             ))
           }
-
-          
         </Div>
       </Layout>
     )
