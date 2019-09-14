@@ -15,8 +15,6 @@ Github projects aren’t just frameworks, libs and plugins. There is some funny 
 
 _Know of any good ones that I missed? Tweet me at [@johnpolacek][1]_
 
-* * *</p> 
-
 [<img src="/img/blog/2015/04/useless.png" alt="The Useless Web Website" width="720" height="298" class="alignleft size-full wp-image-1942" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/useless.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/useless-300x124.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/useless-500x207.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][2]
   
 **The Useless Web**
@@ -26,8 +24,6 @@ Take me to another useless website please. The useless web is a single button, w
 Github Project: [github.com/tholman/the-useless-web][2]
   
 By Tim Holman ([@twholman][4])
-
-* * *</p> 
 
 [<img src="/img/blog/2015/04/fartscroll.png" alt="fartscroll" width="720" height="214" class="aligncenter size-full wp-image-1844" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/fartscroll.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/fartscroll-300x89.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/fartscroll-500x149.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][5]
   
@@ -39,8 +35,6 @@ Github Project: [github.com/theonion/fartscroll.js][6]
   
 By The Onion ([@TheOnion][7])
 
-* * *</p> 
-
 [<img src="/img/blog/2015/04/whatthecommit1.png" alt="what the commit" width="720" height="320" class="aligncenter size-full wp-image-1845" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/whatthecommit1.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/whatthecommit1-300x133.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/whatthecommit1-500x222.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][8]
   
 **What The Commit**
@@ -50,8 +44,6 @@ An amusing random commit message generator. View it at [whatthecommit.com][8]
 Github Project: [github.com/ngerakines/commitment][9]
   
 By Nick Gerakines ([@ngerakines][10])
-
-* * *</p> 
 
 [<img src="/img/blog/2015/04/bootstra.png" alt="bootstra" width="720" height="300" class="aligncenter size-full wp-image-1841" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/bootstra.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/bootstra-300x125.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/bootstra-500x208.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][11]
   
@@ -63,8 +55,6 @@ Github Project: [github.com/kristopolous/BOOTSTRA.386][12]
   
 By Chris McKenzie ([kristopolous][13])
 
-* * *</p> 
-
 [<img src="/img/blog/2015/04/passwordsforthemanlyman.png" alt="passwords for the manly man" width="720" height="322" class="aligncenter size-full wp-image-1846" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/passwordsforthemanlyman.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/passwordsforthemanlyman-300x134.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/passwordsforthemanlyman-500x224.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][14]
   
 **Passwords for the Manly Man**
@@ -74,8 +64,6 @@ Generating passwords so strong and secure they strike fear into the heart of dar
 Github Project: [github.com/dfcb/manly-man-passwords][15]
   
 By John Polacek ([@johnpolacek][1])
-
-* * *</p> 
 
 [<img src="/img/blog/2015/04/gifs.png" alt="gifs" width="720" height="292" class="aligncenter size-full wp-image-1847" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/gifs.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/gifs-300x122.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/gifs-500x203.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][16]
   
@@ -87,8 +75,6 @@ Github Project: [github.com/jglovier/gifs][17]
   
 By Joel Glovier ([@jglovier][1])
 
-* * *</p> 
-
 [<img src="/img/blog/2015/04/arnoldc.png" alt="arnoldc" width="720" height="298" class="aligncenter size-full wp-image-1848" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/arnoldc.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/arnoldc-300x124.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/arnoldc-500x207.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][18]
   
 **ArnoldC**
@@ -98,8 +84,6 @@ A programming language based on the one liners of Arnold Schwarzenegger. View it
 Github Project: <https://github.com/lhartikk/ArnoldC>
   
 By Lauri Hartikka ([@lhartikk][19])
-
-* * *</p> 
 
 [<img src="/img/blog/2015/04/five.png" alt="five" width="720" height="431" class="aligncenter size-full wp-image-1849" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/five.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/five-300x180.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/five-500x300.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][20]
   
@@ -111,8 +95,6 @@ Github Project: [github.com/jackdcrawford/five][21]
   
 By Jack Crawford ([jackdcrawford][22])
 
-* * *</p> 
-
 [<img src="/img/blog/2015/04/programmer-collective-nouns.png" alt="programmer collective nouns" width="720" height="247" class="aligncenter size-full wp-image-1850" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/programmer-collective-nouns.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/programmer-collective-nouns-300x103.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/programmer-collective-nouns-500x172.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][23]
   
 **Programmer Collective Nouns**
@@ -120,8 +102,6 @@ By Jack Crawford ([jackdcrawford][22])
 An Enumerable of Rubyists, An Indentation of Pythonistas, A fold of Haskellers, etc&#8230; View more at <https://gist.github.com/mariusGundersen/6925246>
 
 Github Gist by Marius Gundersen ([@gundersenmarius][24])
-
-* * *</p> 
 
 [<img src="/img/blog/2015/04/html9.png" alt="html9" width="960" height="352" class="aligncenter size-full wp-image-1839" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/html9.png 960w, http://johnpolacek.com/wp-content/uploads/2015/04/html9-300x110.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/html9-500x183.png 500w" sizes="(max-width: 960px) 100vw, 960px" />][25]
   
@@ -133,8 +113,6 @@ Github Project: [github.com/impressivewebs/HTML9-Responsive-Boilerstrap-js][26]
   
 By Louis Lazaris ([@ImpressiveWebs][27])
 
-* * *</p> 
-
 [<img src="/img/blog/2015/04/semicolon.png" alt="semicolon programming language" width="720" height="351" class="aligncenter size-full wp-image-1843" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/semicolon.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/semicolon-300x146.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/semicolon-500x244.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][28]
   
 **Semicolon**
@@ -144,8 +122,6 @@ A programming language of semicolons. View it at [pksunkara.com/semicolon][28]
 Github Project: [github.com/pksunkara/semicolon][29]
   
 By Pavan Kumar Sunkara ([@pksunkara][30])
-
-* * *</p> 
 
 [<img src="/img/blog/2015/04/illacceptanything.png" alt="illacceptanything" width="720" height="235" class="aligncenter size-full wp-image-1840" srcset="http://johnpolacek.com/wp-content/uploads/2015/04/illacceptanything.png 720w, http://johnpolacek.com/wp-content/uploads/2015/04/illacceptanything-300x98.png 300w, http://johnpolacek.com/wp-content/uploads/2015/04/illacceptanything-500x163.png 500w" sizes="(max-width: 720px) 100vw, 720px" />][31]
   

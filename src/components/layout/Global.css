@@ -5,7 +5,7 @@ button,input[type=submit]{cursor:pointer;}
 p{line-height:1.6;margin:0 0 24px;}
 pre{background: white;padding: 16px;overflow: scroll;font-size:16px;}
 a{color:#0077cc;font-weight:500;}
-ul{margin-top:0;margin-bottom:16px;}
+ul{margin-top:0;margin-bottom:32px;}
 li{margin-bottom:16px;}
 select{padding:8px;}
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{text-rendering:optimizelegibility;margin:0;line-height: 1.3;}
