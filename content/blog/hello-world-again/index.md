@@ -4,7 +4,7 @@ date: "2019-03-08"
 description: Wordpress blog redesign in Gatsby, React and Styled Components.
 ---
 
-As on does, I have re-done my Wordpress blog with Gatsby. *Why?*
+As one does, I have re-done my Wordpress blog with Gatsby. *Why?*
 
 No more database. Better performance. Great developer/authoring experience. Authoring in MD.. MDX... yeah, that’s the good stuff.
 

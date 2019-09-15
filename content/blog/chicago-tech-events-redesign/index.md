@@ -1,7 +1,7 @@
 ---
 title: ChicagoTechEvents.com Redesign
 date: "2019-04-27"
-description: A work-in-progress build log and preview of the new website for chicagotechevents.com
+description: A new website design for chicagotechevents.com
 ---
 
 [<img src="/img/code/chicagotechevents.png" alt="Chicago Tech Events Website" width="300" height="168" class="size-medium wp-image-2064"  style="display:block;float:none;width:97%;height:auto;max-width:12800px;" />](https://github.com/johnpolacek/chicagotechevents.com)
