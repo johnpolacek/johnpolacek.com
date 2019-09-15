@@ -7,16 +7,22 @@ import { Div } from 'styled-system-html'
 
 const projects = [
   {
+    name:'Chicago Tech Events',
+    url:'https://github.com/johnpolacek/chicagotechevents.com',
+    img:'chicagotechevents.png',
+    desc:'A Gatsby starter for creating a calendar list of events'
+  },
+  {
+    name:'MDX Deck with Greensock',
+    url:'https://mdx-deck-greensock-demo.netlify.com/',
+    img:'mdx-deck-greensock.png',
+    desc:'A Demo of MDX Deck with Greensock Animation'
+  },
+  {
     name:'Styled System HTML',
     url:'https://johnpolacek.github.io/styled-system-html/',
     img:'styled-system-html.png',
     desc:'HTML elements extended as components, ready for theming via styled system.'
-  },
-  {
-    name:'Gatsby Events List Starter',
-    url:'https://github.com/johnpolacek/gatsby-starter-events-list',
-    img:'gatsby-starter-events-list.png',
-    desc:'A Gatsby starter for creating a calendar list of events'
   },
   {
     name:'CSS-in-JS or CSS-and-JS',
