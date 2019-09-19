@@ -18,7 +18,6 @@ class AboutPage extends React.Component {
         />
         <Div pt={[0,3]} pb={[4,5]}>
           <Img width={[80,120]} mx="auto" display="block" borderRadius="50%" src="/img/profile-pic.jpg" mb={3} />
-          <P fontSize={[1,2]} fontStyle="italic" color="gray9" width={[240,360]} mx="auto" px={1} textAlign="center" mb={[4,5]}>“I love brass tacks and the nitty gritty. Ideas are great. Executing is better. Building web stuff that solves problems is what I do.”</P>
           <H3>Lead Web Developer At…</H3>
           <P fontSize={[1,2]} py={[2,0]}><a href="https://www.givesmart.com/">GiveSmart</a> by <a href="https://www.communitybrands.com/">Community Brands</a>. We help nonprofits raise more money with our <a href="https://www.givesmart.com/product/">event fundraising platform</a>.</P>
           <H3>Code Featured In…</H3>

@@ -10,7 +10,7 @@ const projects = [
     name:'Chicago Tech Events',
     url:'https://github.com/johnpolacek/chicagotechevents.com',
     img:'chicagotechevents.png',
-    desc:'A Gatsby starter for creating a calendar list of events'
+    desc:'The website for chicagotechevents.com built with Gatsby '
   },
   {
     name:'MDX Deck with Greensock',
