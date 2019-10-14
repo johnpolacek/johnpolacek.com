@@ -10,7 +10,13 @@ const projects = [
     name:'Chicago Tech Events',
     url:'https://github.com/johnpolacek/chicagotechevents.com',
     img:'chicagotechevents.png',
-    desc:'The website for chicagotechevents.com built with Gatsby '
+    desc:'The website for chicagotechevents.com built with Gatsby'
+  },
+  {
+    name:'Design System Playground',
+    url:'https://design-system-playground.netlify.com/',
+    img:'design-system-playground.png',
+    desc: 'Play with typography and colors to generate a design system theme'
   },
   {
     name:'MDX Deck with Greensock',
@@ -22,31 +28,25 @@ const projects = [
     name:'Styled System HTML',
     url:'https://johnpolacek.github.io/styled-system-html/',
     img:'styled-system-html.png',
-    desc:'HTML elements extended as components, ready for theming via styled system.'
+    desc:'HTML elements extended as components, ready for theming via styled system'
   },
   {
     name:'CSS-in-JS or CSS-and-JS',
     url:'https://johnpolacek.github.io/css-in-js-or-css-and-js/',
     img:'css-in-js-or-css-and-js.png',
-    desc:'A thing built with CSS and JS and a same thing built with CSS-in-JS.'
+    desc:'A thing built with CSS and JS and a same thing built with CSS-in-JS'
   },
   {
     name:'Styled Starter',
     url:'https://johnpolacek.github.io/styled-starter/',
     img:'styled-starter.png',
-    desc:'Starter Kit for React Apps with Next.js and Styled System Components.'
+    desc:'Starter Kit for React Apps with Next.js and Styled System Components'
   },
   {
     name:'TweenDeck',
     url:'https://johnpolacek.github.io/tweendeck/',
     img:'tweendeck.png',
-    desc:'Next level animation for web presentations.'
-  },
-  {
-    name:'Design System Playground',
-    url:'https://johnpolacek.github.io/design-system-playground/',
-    img:'design-system-playground.png',
-    desc: 'Experiment with design systems by updating stateful theme data.'
+    desc:'Next level animation for web presentations'
   },
   {
     name:'Expressive CSS',
@@ -58,7 +58,7 @@ const projects = [
     name:'Simple Grid Generator',
     url:'http://johnpolacek.github.io/simple-grid/',
     img:'simplegrid.png',
-    desc: 'A SASS grid generator for creating responsive grids with some nice features.'    
+    desc: 'A SASS grid generator for creating responsive grids with some nice features'    
   },
   {
     name:'Responsivator!',
@@ -82,13 +82,13 @@ const projects = [
     name:'SuperScrollorama',
     url:'http://johnpolacek.github.io/superscrollorama',
     img:'superscrollorama.png',
-    desc: 'The jQuery plugin for doing cool scrolly stuff.'    
+    desc: 'The jQuery plugin for doing cool scrolly stuff'    
   },
   {
     name:'stacktable.js',
     url:'http://johnpolacek.github.io/stacktable.js',
     img:'stacktable.png',
-    desc: 'jQuery plugin for stacking tables on small screens.'    
+    desc: 'jQuery plugin for stacking tables on small screens'    
   },
   {
     name:'Extra Strength Responsive Grids',
@@ -129,8 +129,8 @@ class CodePage extends React.Component {
         />
         <Div pb={5} textAlign="center">
           {
-            projects.map((proj) => (
-              <Project {...proj} />
+            projects.map((proj, i) => (
+              <Project key={'proj'+i} {...proj} />
             ))
           }
         </Div>
